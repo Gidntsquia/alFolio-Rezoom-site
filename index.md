@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# a Self-Driving Escooter
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The long-term goal of this research is to develop self-driving e-scooter technology to increase sustainability, accessibility, and equity in urban mobility. Toward this goal, in this work we design and implement a self-driving e-scooter with the ability to safely travel along a pre-planned route using automated, onboard control without a rider. We also construct an autonomous driving framework by synthesizing open-source robotics software libraries with custom-designed modules specific to an e-scooter, including path planning and state estimation. The hardware and software development steps along with design choices and pitfalls are documented. Results of real-world autonomous navigation of our retrofitted e-scooter, along with the effectiveness of our localization methods are presented. 
 
 {%
   include button.html
