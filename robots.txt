@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://gidntsquia.github.io//sitemap.xml
+Sitemap: /sitemap.xml
