@@ -1,19 +1,19 @@
 # site properties and page defaults
 <<<<<<< HEAD
-title: ReZoom
-subtitle: University of Maryland research team
-description: Welcome! We are designing self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!
+title: Gidntsquia
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/scooter.png
 footer: images/scooter.png
 
 # site social media and other links
 links:
-  email: dpaley@umd.edu
+  email: contact@Gidntsquia.com
   orcid: a
   google-scholar: a
-  github: REZOOM-UMD
-  twitter: a
-  youtube: UMDRobotics
+  github: Gidntsquia
+  twitter: Gidntsquia
+  youtube: Gidntsquia
 =======
 title: Lab Website Template
 subtitle: by the Greene Lab
